@@ -1,2 +1,2 @@
 # ML-model-one
-Chronic Disease Prediction using Bayes Theorem
+Chronic Disease Prediction using Bayes Theorem in R
